@@ -1,0 +1,21 @@
+## Etymology
+
+The word *apple*, formerly spelled *æppel* in [Old English](https://en.wikipedia.org/wiki/Old_English), is derived from the [Proto-Germanic](https://en.wikipedia.org/wiki/Proto-Germanic) root **ap(a)laz*, which could also mean [fruit](https://en.wikipedia.org/wiki/Fruit) in general. This is ultimately derived from [Proto-Indo-European](https://en.wikipedia.org/wiki/Proto-Indo-European) **ab(e)l-*, but the precise original meaning and the relationship between both words[*[clarification needed](https://en.wikipedia.org/wiki/Wikipedia:Please_clarify)*] is uncertain.
+
+As late as the 17th century, the word also functioned as a generic term for all fruit other than [berries](https://en.wikipedia.org/wiki/Berries) but including [nuts](https://en.wikipedia.org/wiki/Nut_(fruit))—such as the 14th century [Middle English](https://en.wikipedia.org/wiki/Middle_English) word *appel of paradis*, meaning a [banana](https://en.wikipedia.org/wiki/Banana).[[4\]](https://en.wikipedia.org/wiki/Apple#cite_note-4) This use is analogous to the [French language](https://en.wikipedia.org/wiki/French_language) use of *pomme*.
+
+## Description
+
+[![img](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Malus_domestica_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-108.jpg/220px-Malus_domestica_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-108.jpg)](https://en.wikipedia.org/wiki/File:Malus_domestica_-_Köhler–s_Medizinal-Pflanzen-108.jpg)
+
+Blossoms, fruits, and leaves of the apple tree (*Malus domestica*)
+
+The apple is a [deciduous](https://en.wikipedia.org/wiki/Deciduous) tree, generally standing 2 to 4.5 m (6 to 15 ft) tall in cultivation and up to 9 m (30 ft) in the wild. When cultivated, the size, shape and branch density are determined by [rootstock](https://en.wikipedia.org/wiki/Rootstock) selection and trimming method. The leaves are [alternately arranged](https://en.wikipedia.org/wiki/Leaf_arrangement) dark green-colored simple ovals with serrated margins and slightly downy undersides.[[5\]](https://en.wikipedia.org/wiki/Apple#cite_note-app-5)
+
+[![img](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Apple_Blossom_%40_Manali.jpg/220px-Apple_Blossom_%40_Manali.jpg)](https://en.wikipedia.org/wiki/File:Apple_Blossom_@_Manali.jpg)
+
+Apple blossom
+
+[Blossoms](https://en.wikipedia.org/wiki/Blossoms) are produced in [spring](https://en.wikipedia.org/wiki/Spring_(season)) simultaneously with the budding of the leaves and are produced on spurs and some long [shoots](https://en.wikipedia.org/wiki/Shoot). The 3 to 4 cm (1 to 1+1⁄2 in) flowers are white with a pink tinge that gradually fades, five [petaled](https://en.wikipedia.org/wiki/Petal), with an [inflorescence](https://en.wikipedia.org/wiki/Inflorescence) consisting of a [cyme](https://en.wikipedia.org/wiki/Cyme_(botany)) with 4–6 flowers. The central flower of the inflorescence is called the "king bloom"; it opens first and can develop a larger fruit.[[5\]](https://en.wikipedia.org/wiki/Apple#cite_note-app-5)[[6\]](https://en.wikipedia.org/wiki/Apple#cite_note-6)
+
+The [fruit](https://en.wikipedia.org/wiki/Fruit) is a [pome](https://en.wikipedia.org/wiki/Pome) that matures in late [summer](https://en.wikipedia.org/wiki/Summer) or [autumn](https://en.wikipedia.org/wiki/Autumn), and cultivars exist in a wide range of sizes. Commercial growers aim to produce an apple that is 7 to 8.5 cm (2+3⁄4 to 3+1⁄4 in) in diameter, due to market preference. Some consumers, especially those in Japan, prefer a larger apple, while apples below 5.5 cm (2+1⁄4 in) are generally used for making juice and have little fresh market value. The skin of ripe apples is generally red, yellow, green, pink, or [russetted](https://en.wikipedia.org/wiki/Russetted), though many bi- or tri-colored cultivars may be found.[[7\]](https://en.wikipedia.org/wiki/Apple#cite_note-Janick-7) The skin may also be wholly or partly russeted i.e. rough and brown. The skin is covered in a protective layer of [epicuticular wax](https://en.wikipedia.org/wiki/Epicuticular_wax).[[8\]](https://en.wikipedia.org/wiki/Apple#cite_note-8) The exocarp (flesh) is generally pale yellowish-white,[[7\]](https://en.wikipedia.org/wiki/Apple#cite_note-Janick-7) though pink, yellow or green exocarps also occur.[[9\]](https://en.wikipedia.org/wiki/Apple#cite_note-9)

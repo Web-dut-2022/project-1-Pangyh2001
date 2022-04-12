@@ -1,0 +1,24 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    编辑全书 | {{ title }}
+{% endblock %}
+
+{% block body %}
+
+    <h1>编辑全书</h1><br />
+    {% if message %}
+        <div id="message" style="color: red;">
+           {{ message }}
+        </div>
+        <br />
+    {% endif %}
+    <form action="{% url 'edit' title %}" method="POST">
+        {% csrf_token %}
+        <p><label for="id_title">标题:</label> <input type="text" name="title" value="{{ title }}" id="id_title" readonly=""></p>
+        <p><label for="id_content">内容:</label> <textarea name="content" style="height: 300px" required id="id_content">{{ content }}</textarea></p>
+    <p>
+    <input type="submit" value="save">
+    </form>
+    
+{% endblock %}
