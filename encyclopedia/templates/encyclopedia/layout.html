@@ -8,26 +8,30 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
         <link href="{% static 'encyclopedia/styles.css' %}" rel="stylesheet">
     </head>
-    <body>
+    <body >
         <div class="row">
             <div class="sidebar col-lg-2 col-md-3">
-                <h2>Wiki</h2>
-                <form>
-                    <input class="search" type="text" name="q" placeholder="Search Encyclopedia">
+                <h3>百科全书</h3>
+                <form action="/search" method="GET">   <!--点击提交就来到了urls文件找search,然后找到了views中的search方法-->
+                    <input class="search" type="text" name="q" placeholder="搜啥捏">
                 </form>
                 <div>
-                    <a href="{% url 'index' %}">Home</a>
+                    <a href="{% url 'index' %}">首页</a>
                 </div>
                 <div>
-                    Create New Page
+                    <a href="{% url 'new' %}">新建一页</a>
                 </div>
                 <div>
-                    Random Page
+                    <a href="{% url 'wiki' %}">任意一页</a>
                 </div>
+
                 {% block nav %}
                 {% endblock %}
+
             </div>
             <div class="main col-lg-10 col-md-9">
+
+
                 {% block body %}
                 {% endblock %}
             </div>
