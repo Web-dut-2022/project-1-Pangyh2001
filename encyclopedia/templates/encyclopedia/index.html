@@ -1,15 +1,15 @@
-{% extends "encyclopedia/layout.html" %}
+{% extends "encyclopedia/layout.html" %}   <!--这是一个继承，需要替换父模板中的内容-->
 
 {% block title %}
-    Encyclopedia
+    百科全书
 {% endblock %}
 
-{% block body %}
-    <h1>All Pages</h1>
+{% block body %}          <!--运行时替换父模板相应的部分-->
+    <h1 style="align-content: center">水果</h1>
 
     <ul>
-        {% for entry in entries %}
-            <li>{{ entry }}</li>
+        {% for entry in entries %} <!--循环输出列表中的条目名称，按照无序列表的方式-->
+            <li><a href="{% url 'wiki_entry' entry %}">{{ entry }}</a></li>    <!--条目对应的链接是自己的名字，同时反向解析将名字带回url-->
         {% endfor %}
     </ul>
 

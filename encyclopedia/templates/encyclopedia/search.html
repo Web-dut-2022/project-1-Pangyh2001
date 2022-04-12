@@ -1,0 +1,20 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    搜索 | {{ query }}
+{% endblock %}
+
+{% block body %}
+    {% if is_found %}
+        <h1>找到的结果</h1>
+        <ul>
+            {% for r in result %}
+                <li><a href="{% url 'wiki_entry' r %}">{{ r }}</a></li>    <!--依次输出result列表中的内容-->
+            {% endfor %}
+        </ul>
+    {% else %}
+        <h1 style="color:red;">没找到!</h1>
+
+    {% endif %}
+    
+{% endblock %}
